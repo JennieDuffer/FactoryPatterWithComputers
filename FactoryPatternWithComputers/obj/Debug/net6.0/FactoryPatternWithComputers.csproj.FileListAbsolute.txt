@@ -1,0 +1,15 @@
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.csproj.AssemblyReference.cache
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.AssemblyInfo.cs
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\bin\Debug\net6.0\FactoryPatternWithComputers.exe
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\bin\Debug\net6.0\FactoryPatternWithComputers.deps.json
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\bin\Debug\net6.0\FactoryPatternWithComputers.runtimeconfig.json
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\bin\Debug\net6.0\FactoryPatternWithComputers.dll
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\bin\Debug\net6.0\FactoryPatternWithComputers.pdb
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.dll
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\refint\FactoryPatternWithComputers.dll
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.pdb
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\FactoryPatternWithComputers.genruntimeconfig.cache
+C:\Users\jenni\Desktop\Repos\FactoryPatternWithComputers\FactoryPatternWithComputers\obj\Debug\net6.0\ref\FactoryPatternWithComputers.dll
